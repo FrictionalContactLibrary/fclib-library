@@ -30,5 +30,5 @@ todo : more details would be useful
 The script that generates this example can be obtained from the Siconos development team. On the following figure,  distribution of the number of contacts, the number of d.o.f and the ratio number of contacts unknowns/number of d.o.f are illustrated.
 
 <div align="center">
-        <img width="65%" src="distrib-LMGC_Bridge_PR.png" alt="About screen" title="LMGC_Bridge_PR.png"</img>
+        <img width="95%" src="distrib-LMGC_Bridge_PR.png" alt="About screen" title="LMGC_Bridge_PR.png"</img>
 </div>
