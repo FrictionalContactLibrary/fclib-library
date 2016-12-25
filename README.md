@@ -11,5 +11,7 @@ More information are avalaible at (https://frictionalcontactlibrary.github.io/in
         <img height="200px" src="./Aqueduct_PR/Aqueduc_PR.png" alt="About screen" title="Aqueduct.png"</img>
         <img height="200px" src="./Chain/Chains.png" alt="About screen" title="Chains.png"</img>
         <img height="200px" src="./BoxesStack/BoxesStack2.png" alt="About screen" title="BoxesStack2.png"</img>
+        <img height="200px" src="./KaplasTower/KaplasTower.png" alt="About screen" title="BoxesStack2.png"</img>
+        <img height="200px" src="./Bridge_PR/Bridge_PR_1.png" alt="About screen" title="Bridge_PR_1.png"</img>
         
 </div>
