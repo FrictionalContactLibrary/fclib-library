@@ -8,7 +8,7 @@ Date: 21/09/2015
 Software: LMGC90 (original simulation of LMGC90 development team)
 
 <div align="center">
-        <img width="45%" src="./945_SP_Box_PL.png" alt="About screen" title="945_SP_Box_PL.png"</img>
+        <img width="60%" src="./945_SP_Box_PL.png" alt="About screen" title="945_SP_Box_PL.png"</img>
 </div>
 
 coefficient of friction 0.8
@@ -28,5 +28,5 @@ todo : more details would be useful
 The script that generates this example can be obtained from the Siconos development team. On the following figure,  distribution of the number of contacts, the number of d.o.f and the ratio number of contacts unknowns/number of d.o.f are illustrated.
 
 <div align="center">
-        <img width="65%" src="distrib-LMGC_945_SP_Box_PL.png" alt="About screen" title="945_SP_box_PL.png"</img>
+        <img width="95%" src="distrib-LMGC_945_SP_Box_PL.png" alt="About screen" title="945_SP_box_PL.png"</img>
 </div>
