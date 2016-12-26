@@ -1,12 +1,6 @@
 fclib-library repository
 ========================
 
-This repository contains the problem files of the fclib library. It uses git lfs so for versioning and cloning ( only what you ant if needed).
-
-It is closely related to the fclib API for reading and writing the problem file that you can find at (https://github.com/FrictionalContactLibrary/fclib)
-
-More information are avalaible at (https://frictionalcontactlibrary.github.io/index.html)
-
 <div align="center">
         <img height="250px" src="./Aqueduct_PR/Aqueduc_PR.png" alt="About screen" title="Aqueduct.png"</img>
         <img height="250px" src="./Bridge_PR/Bridge_PR_1.png" alt="About screen" title="Bridge_PR_1.png"</img><br/>
@@ -19,5 +13,40 @@ More information are avalaible at (https://frictionalcontactlibrary.github.io/in
         <img height="200px" src="./Cubes_H8/Cubes_H8_5.png" alt="About screen" title="Cubes_H8_5.png"</img>
         <img height="200px" src="./LowWall_FEM/LowWall_FEM.png" alt="About screen" title="LowWall_FEM.png"</img>
         <img height="500px" src="./Chute_1000/Chute_1000_4x.png" alt="About screen" title="Chute_1000_4x.png"</img>
-
 </div>
+
+
+This repository contains the problem files of the fclib library. 
+
+It is closely related to the fclib API for reading and writing the problem file that you can find at (https://github.com/FrictionalContactLibrary/fclib)
+
+More information are avalaible at (https://frictionalcontactlibrary.github.io/index.html)
+
+What is fclib ?
+---------------
+fclib is
+ * an open source collection of Frictional Contact (FC) problems stored in a specific HDF5 format,
+ * an open source light implementation of Input/Output functions in C Language to read and write problems.
+ 
+The goal of this work is to set up a collection of 2D and 3D Frictional Contact (FC) problems in order to
+ * set up a list of benchmarks,
+ * provide a standard framework for testing available and new algorithms,
+ * share common formulations of problems in order to exchange data.
+
+What is a Frictional contact problem ?
+--------------------------------------
+
+A Frictional contact problem is algebraic problem obtained after possible time and space discretizations of problems
+of mechanics of solid involving contact and Coulomb's friction. The mathematical structure of the problem is 
+a second-order cone complementarity problem. For more details, you could have a look to the fclib specifications in
+
+Vincent Acary, Maurice Brémond, Tomasz Koziara, Franck Pérignon. 
+FCLIB: a collection of discrete 3D Frictional Contact problems. 
+[Technical Report] RT-0444, INRIA. 2014, pp.34. <hal-00945820v2>
+https://hal.inria.fr/hal-00945820v2/document
+
+git lfs
+-------
+It uses git lfs  for the versioning and the cloning. By using git sparse-checkout system, you can clone only what you need.
+
+
