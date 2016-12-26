@@ -16,4 +16,6 @@ More information are avalaible at (https://frictionalcontactlibrary.github.io/in
         <img height="200px" src="./KaplasTower/KaplasTower.png" alt="About screen" title="BoxesStack2.png"</img>
         <img height="200px" src="./100_PR_PerioBox/100_PR_PerioBox.png" alt="About screen" title="100_PR_Periobox.png"</img>
         <img height="200px" src="./945_SP_Box_PL/945_SP_Box_PL.png" alt="About screen" title="945_SP_Box_PL.png"</img>
+        <img height="200px" src="./Cubes_H8/Cubes_H8_5.png" alt="About screen" title="Cubes_H8_5.png"</img>
+        <img height="200px" src="./LowWall_FEM/LowWall_FEM.png" alt="About screen" title="LowWall_FEM.png"</img>
 </div>
