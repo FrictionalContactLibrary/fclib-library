@@ -8,7 +8,7 @@ Date: 01/07/2016
 Software: Siconos
 
 <div align="center">
-        <img width="25%" src="./Chute_1000_light.jpg" alt="About screen" title="Chute_1000_light.jpg"</img>
+        <img width="100%" src="./Chute_1000_light.jpg" alt="About screen" title="Chute_1000_light.jpg"</img>
 </div>
 
 coefficient of friction 1.0
