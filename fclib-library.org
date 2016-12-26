@@ -1,2 +1,2 @@
 + TODO update info of various examples with mechanical parameters.
-+ TODO link with scripts in FrictionalContactLibrary/fclib-scripts
++ TODO link with scripts in (https://github.com/FrictionalContactLibrary/fclib-scripts)
