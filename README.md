@@ -20,7 +20,8 @@ This repository contains the problem files of the fclib library.
 
 The hdf5 file can be read with the fclib API in C or in Python. The code can be found at [FrictionalContactLibrary/fclib](https://github.com/FrictionalContactLibrary/fclib)
 
-More information is avalaible on the [website](https://frictionalcontactlibrary.github.io/index.html)
+More information is avalaible on the [website of the fclib project](https://frictionalcontactlibrary.github.io/index.html)
+
 
 What is fclib ?
 ---------------
