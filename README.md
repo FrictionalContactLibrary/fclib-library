@@ -18,9 +18,9 @@ fclib-library repository
 
 This repository contains the problem files of the fclib library. 
 
-It is closely related to the fclib API for reading and writing the problem file that you can find at (https://github.com/FrictionalContactLibrary/fclib)
+The hdf5 file can be read with the fclib API in C or in Python. The code can be found at [FrictionalContactLibrary/fclib](https://github.com/FrictionalContactLibrary/fclib)
 
-More information are avalaible at (https://frictionalcontactlibrary.github.io/index.html)
+More information is avalaible on the [website](https://frictionalcontactlibrary.github.io/index.html)
 
 What is fclib ?
 ---------------
