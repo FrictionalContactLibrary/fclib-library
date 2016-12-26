@@ -18,4 +18,6 @@ More information are avalaible at (https://frictionalcontactlibrary.github.io/in
         <img height="200px" src="./945_SP_Box_PL/945_SP_Box_PL.png" alt="About screen" title="945_SP_Box_PL.png"</img>
         <img height="200px" src="./Cubes_H8/Cubes_H8_5.png" alt="About screen" title="Cubes_H8_5.png"</img>
         <img height="200px" src="./LowWall_FEM/LowWall_FEM.png" alt="About screen" title="LowWall_FEM.png"</img>
+        <img height="500px" src="./Chute_1000/Chute_1000_4x.png" alt="About screen" title="Chute_1000_4x.png"</img>
+
 </div>
