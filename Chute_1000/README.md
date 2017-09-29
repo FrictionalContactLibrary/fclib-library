@@ -1,4 +1,4 @@
-Flow of 1000 ramdom polyedra with 10 facets into a chute
+Flow of 1000 random polyedra with 10 facets into a chute
 ========================================================
 
 Authors: V. Acary, S. Sinclair  (INRIA Rhône–Alpes, INRIA Chile)
@@ -13,11 +13,11 @@ Software: Siconos
 
 coefficient of friction 1.0
 
-number of problems 
+number of problems 156
 
-number of degrees of freedom
+number of degrees of freedom [276:5508]
 
-number of contacts
+number of contacts [74:5056]
 
 required accuracy 1e-4
 
