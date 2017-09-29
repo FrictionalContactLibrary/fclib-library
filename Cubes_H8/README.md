@@ -15,9 +15,9 @@ coefficient of friction 0.3
 
 number of problems 115
 
-number of degrees of freedom 
+number of degrees of freedom {162,1296,55566}
 
-number of contacts 
+number of contacts  { [3,5], [17,36], [361,378]}
 
 required accuracy 1e-8
 
