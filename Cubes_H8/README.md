@@ -13,7 +13,7 @@ Software: LMGC90 (original simulation of LMGC90 development team)
 
 coefficient of friction 0.3
 
-number of problems 58
+number of problems 115
 
 number of degrees of freedom 
 
