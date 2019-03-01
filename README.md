@@ -1,6 +1,8 @@
 fclib-library repository
 ========================
 
+# A open collection of frictional contact problems
+
 <div align="center">
         <img height="250px" src="./Local/LMGC90/Aqueduct_PR/Aqueduc_PR.png" alt="About screen" title="Aqueduct.png"</img>
         <img height="250px" src="./Local/LMGC90/Bridge_PR/Bridge_PR_1.png" alt="About screen" title="Bridge_PR_1.png"</img><br/>
