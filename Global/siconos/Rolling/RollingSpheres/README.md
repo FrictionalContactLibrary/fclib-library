@@ -8,7 +8,7 @@ Date: 31/03/2021
 Software: Siconos
 
 <div align="center">
-<img width="25%" src="./BoxesStack.png" alt="About screen" title="RollingSpheres.png"</img>
+<img width="25%" src="./RollingSpheres.png" alt="About screen" title="RollingSpheres.png"</img>
 </div>
 
 coefficient of friction 0.7
