@@ -1,0 +1,16 @@
+BoxStacks-ndof-450-nc-31-0.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-639-13.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-644-12.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-638-10.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-641-19.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-109-3.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-112-2.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-464-7.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-552-8.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-580-6.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-640-14.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-642-72.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-660-9.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-404-4.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-645-11.hdf5 filter=lfs diff=lfs merge=lfs -text
+BoxStacks-ndof-450-nc-73-1.hdf5 filter=lfs diff=lfs merge=lfs -text
